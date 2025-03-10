@@ -32,6 +32,24 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# # Add author profiles
+# # https://jekyllrb.com/docs/step-by-step/09-collections/#add-authors
+# collections:
+#   authors:
+#     output: true
+
+# defaults:
+# - scope:
+#     path: ""
+#     type: "authors"
+#   values:
+#     layout: "author"
+
+header_pages:
+  - about.markdown
+  # - authors.html
+  - pages/breathe-project.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
