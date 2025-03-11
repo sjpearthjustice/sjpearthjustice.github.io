@@ -22,7 +22,7 @@ Please check back here to see how we get on.
 {% assign pages = site.pages | where_exp: "item", "item.title != 'Breathe'" %}
 {% assign posts = site.posts %}
 {% assign pagesAndPosts = pages | concat: posts %}
-{% assign ppSorted = pagesAndPosts | orderby: "date" | reverse %}
+{% assign ppSorted = pagesAndPosts | sort: "mydate" %}
 {% for p in ppSorted %}
     {% for cat in p.categories %}
         {% if cat == "breathe" %}

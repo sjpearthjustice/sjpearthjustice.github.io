@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Eco Contemplative Liturgy: wind and breath"
-date:   2025-03-23
+title: "Eco Contemplative Liturgy: wind and breath"
+date: 2025-03-23
+mydate: 2025-03-23
 author: Diane Pacitti
-categories: liturgy
+categories: breathe liturgy
 ---
 
 <img src="/assets/tree.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 80%;">

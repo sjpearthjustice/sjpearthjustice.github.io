@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Eco Contemplative Liturgy: Con-spiring Together: Breathing for Justice"
-date:   2024-11-24
+date: 2024-11-24
+mydate: 2024-11-24
 author: Zoe Cuckow
-categories: liturgy
+categories: breathe liturgy
 ---
 
 <i style="text-align: center">
