@@ -16,21 +16,27 @@ This project aims to investigate the air around us and our attitudes to it. Our 
 
 Please check back here to see how we get on.
 
-# The Project So Far
+- [October: Write Up](month-1-write-up)
+- [Eco Contemplative Liturgy: Con-spiring Together: Breathing for Justice]({% post_url 2024-11-24-eco-cont-lit %})
+- [The Air we Breathe is an Earth Justice Matter]({% post_url 2025-03-10-air-breath-earth-justice %})
+- [Eco Contemplative Liturgy: wind and breath]({% post_url 2025-03-23-eco-cont-lit %})
+- [April: Write Up](2025-mar-apr-write-up)
 
-<ul>
-{% assign pages = site.pages | where_exp: "item", "item.title != 'Breathe'" %}
-{% assign posts = site.posts %}
-{% assign pagesAndPosts = pages | concat: posts %}
-{% assign ppSorted = pagesAndPosts | sort: "mydate" %}
-{% for p in ppSorted %}
-    {% for cat in p.categories %}
-        {% if cat == "breathe" %}
-        <li><a href="{{ p.url | prepend: site.baseurl }}">{{p.title}}
-        </a></li>
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-</ul>
+# Pentecost
 
+<i style="text-align: center">As Pentecost approaches, we reflect on the symbolism of air and wind, starting with our most intimate physical engagement with the air - breath</i>
 
+> 'And suddenly there came from heaven a sound like a mighty rushing wind'
+> Acts 2:2
+
+At Pentecost, the Holy Spirit arrives like the sound of a mighty wind blowing through the locked room. Breath, the Holy Spirit, and pneuma - the ancient Greek word meaning both ‘spirit’ and ‘breath’ - are deeply interconnected, symbolizing life, presence, and divine inspiration.
+
+The Holy Spirit is symbolised as wind or breath of God, or described as hovering over the waters, evoking images of protection and nurture, brooding like a parent bird over precious eggs. Across spiritual traditions, breath serves as a gateway, an invisible thread, bearing witness to the vital presence of Spirit. Breath is the bridge between matter and mystery—an elemental reminder that the sacred dwells within and around us, in every inhalation. When we breathe, we draw in more than air; we are in communion; receiving a touch of the sacred.
+
+Air quality, then, is both a matter of physical health and a spiritual concern. Polluted air physically disrupts sacred connection, harming and killing. All over the planet, life is crying out ‘I can’t breathe’, suffocated and poisoned by the effects of human activity.
+
+Clean air is a reverence, a way of honouring the divine that moves within and through us. To breathe freely is to remember: the holy is not distant, but close as breath, invisible as wind, present in every inhale, every exhale. When breath is compromised, so is our access to Spirit, intuition, and balance. In honouring clean air, we honour the Divine, and life itself.
+
+- [Two Poems about Air]({% post_url 2025-05-25-two-poems %})
+- [Creatures of Air?]({% post_url 2025-05-25-creatures-of-air %})
+- [When I Remember]({% post_url 2025-05-25-when-i-remember %})
