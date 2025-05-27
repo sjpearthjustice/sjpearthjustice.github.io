@@ -4,7 +4,7 @@ title: Breathe
 categories: breathe
 ---
 
-<img src="../assets/logo.png" style="display: block;margin-left: auto;  margin-right: auto;width: 50%;">
+<img src="../assets/logo.png" style="display: block;margin-left: auto;  margin-right: auto;width: 50%;" alt="The project logo. A figure in overalls and a gas mask stands in front of ruined buildings, surrounded by black particles. The figure is peeling away the background from the top left, revealing a clear blue sky behind. The word 'BREATHE' is superimposed over the image in white capitals." />
 
 # Introduction
 

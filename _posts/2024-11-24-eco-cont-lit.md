@@ -10,7 +10,7 @@ categories: breathe liturgy
 <i style="text-align: center">
 This liturgy draws gratefully on Dr Laurel Kearns’s work with excerpts from her inspirational chapter ‘Con-spiring Together: Breathing for Justice’ from ‘The Elements: The Bloomsbury Handbook of Religion and Nature’, published by Bloomsbury Publishing in 2018.</i>
 
-<img src="/assets/clouds.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<img src="/assets/clouds.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" alt="White clouds in a blue sky.">
 
 ## Gathering  
 

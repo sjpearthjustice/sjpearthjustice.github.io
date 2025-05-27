@@ -24,7 +24,7 @@ What exactly is air? A clue is in the ‘exactly’ – it’s not exactly anyth
 >
 > And what’s that vast reservoir of inert nitrogen DOING in the atmosphere? Maybe we need a different question.
 
-<img src="https://www.scientia.ro/images/A2_2020/molecule-aer-coliziune.png" style="float: right; width:40%; margin-left: 15px" />
+<img src="https://www.scientia.ro/images/A2_2020/molecule-aer-coliziune.png" style="float: right; width:40%; margin-left: 15px" alt="Red particles scattered in an otherwise empty white box." />
 
 A classic trope for cajoling children into accepting that air consists of lots of particles with big gaps between them is to offer them a ‘box of air’ diagram like this one, explain that the dots represent molecules of gases, then get them to think about what’s between the molecules. Whereupon many fall into the elephant trap set for them and say ‘air’. The task then becomes thinking about empty space (which is not nothing in itself, and also includes sub-atomic particles whizzing about in the gaps). Perhaps we are vacuum-beings rather than pneumatic beings as there is much more ‘empty’ space in our primary medium than anything else.
 
@@ -34,7 +34,7 @@ Nevertheless, this particular model is an excellent explanatory one that has ser
 >
 > Prior to Dalton’s era, the classical elements of earth, air, water and fire were very much inside the acceptable thinking box for many and diverse cultures - according to Wikipedia these included Greece, Angola, Tibet, India and Mali. These four elements provided a strong framework for understanding the world, sometimes with the addition of ‘aether’ which served a multitude of roles: accounting for empty space, vibrating to generate light, and making space for a spiritual dimension. The four elements patterning in our minds continues in parallel and interaction with atomic theory.
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/003/357/588/small_2x/illustration-of-lung-tree-environment-and-medicine-photo.jpg" style="float: left; width:40%; margin-right: 15px" />
+<img src="https://static.vecteezy.com/system/resources/thumbnails/003/357/588/small_2x/illustration-of-lung-tree-environment-and-medicine-photo.jpg" style="float: left; width:40%; margin-right: 15px" alt="An illustration of lungs, but the lungs are formed of two leafless trees upside-down and branching out like alveoli. The trees are dark coloured, but highlighted in red and yellow. The background is a blue-white sky."/>
 
 Back to those boundary mechanisms. Lungs are like huge leaky parachutes, folded, folded and folded again in order to fit a very thin membrane the size of half a tennis court into a human thorax. The macro-impression is astonishingly tree-like. Branching is integral to multi-cellular life. 
 

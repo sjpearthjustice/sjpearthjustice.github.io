@@ -7,7 +7,7 @@ author: Diane Pacitti
 categories: breathe liturgy
 ---
 
-<img src="/assets/tree.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
+<img src="/assets/tree.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" alt="A black and white image of a tree, bent over hard to the left. It looks like it might have grown this way due to very strong winds. There are no leaves on the tree, and there is grass visible at the bottom of the frame.">
 
 ## Gathering  
 

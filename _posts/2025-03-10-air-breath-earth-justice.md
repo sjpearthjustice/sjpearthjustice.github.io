@@ -13,7 +13,7 @@ Air is fundamental to all life on planet earth, a sacred gift freely imparted. T
 
 ## Pollution 
 
-<img src="/assets/skyline-jakarta.jpg" style="float: right; width:60%; margin-left: 15px" />
+<img src="/assets/skyline-jakarta.jpg" style="float: right; width:60%; margin-left: 15px" alt="A city skyline obscured by heavy smog. Smaller residential buildings are visible in the foreground, with greenery dotted about. High-rise buildings stand at the back, barely visible through the cloud." />
 
 
 Pollution is the largest environmental cause of avoidable disease, disability and premature death in the world today[^1]. Air pollution is responsible for almost 75% of the 9 million pollution deaths globally each year[^2] with many millions more suffering from poor health. The death toll dwarfs that from road traffic deaths, HIV/Aids, malaria and TB combined, or from drug and alcohol misuse. The research data are complex and can appear contradictory. They must take account of both household (indoor) and ambient (outdoor) pollution and multiple sources of both anthropogenic and natural pollution, many of which interact and overlap and are changing rapidly over time and space. In most developed countries pollution is declining due to the ramping up of clean energy and legal frameworks restricting emissions.  In lower-income countries, whose economies have more recently been growing on the back of the fossil fuel energy sources that have already made developed countries so rich, they are rising. The overall trend is still upwards, mainly because of population growth and rapid industrialisation of low- and middle-income countries. For example, the area of land allocated to oil and gas production on the African continent is set to quadruple. Many of these exploration sites threaten 30% of dense tropical forests in Africa[^3].
@@ -26,7 +26,7 @@ The main cause of air pollution is the combustion of fossil fuels. This accounts
 
 ## Multiple Injustices:
 
-<img src="https://citinewsroom.com/wp-content/uploads/2021/09/picture1-1.png" style="float: left; width:60%; margin-right: 15px" />
+<img src="https://citinewsroom.com/wp-content/uploads/2021/09/picture1-1.png" style="float: left; width:60%; margin-right: 15px" alt="A group of black people stand in a muddy area, burning piles of something that looks like waste. They are using long poles to move material onto the fire. There are groups of ramshackle buildings visible in the background." />
 
 For too long wealthy nations have plundered the earth’s natural and human resources through over-extraction, hyper-consumption and exploitation.  At the other end of their operations, negative ‘externalities’ such as unwanted wastes are released into the environment by producers who have taken no responsibility or shown any concern for how, where or whom they may harm - let alone shown willing to take remedial or mitigating measures, including compensation for the damage caused. 
 
